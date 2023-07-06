@@ -1,9 +1,27 @@
+RDKit:
 MolLogP - десятичный логарифм коэффициента разделения соединения между н-октанол/вода. Если >1, вещество более растворимо в жироподобных растворителях, если <1, то более растворимо в воде
-HeavyAtomCount - Количество атомов не-водорода в молекуле.
-NumRotatableBonds - Число поворотных связей в молекуле
-NumValenceElectrons - Количество  валентных электронов в соединении.
-NumAromaticRings - Количество ароматических колец в молекуле.
-TPSA - Топологическая площадь поверхности полярных атомов в соединении.
+NumValenceElectrons - количество  валентных электронов в соединении.
+NumHeteroatoms - количество гетероатомов.
+NumAromaticRings - количество ароматических колец в молекуле.
+NumHAcceptors - количество акцепторных групп.
+NumHDonors - количество донорных групп.
+NumRotatableBonds - число поворотных связей в молекуле.
+TPSA - топологическая площадь поверхности полярных атомов в соединении.
 LabuteASA - площадь поверхности молекулы, доступная для взаимодействия с молекулами растворителя.
-BertzCT - Индекс, предназначенный для количественной оценки “сложности” молекул. 
-MolWt - Молекулярный вес соединения.
+
+CHEMBL (для соединенй):
+Список доступных дескрипторов - ['activity', 'activity_supplementary_data_by_activity', 'assay', 'assay_class', 'atc_class', 'binding_site', 'biotherapeutic', 'cell_line',
+'chembl_id_lookup', 'compound_record', 'compound_structural_alert', 'description', 'document', 'document_similarity', 'drug', 'drug_indication', 'drug_warning', 'go_slim',
+'image', 'mechanism', 'metabolism', 'molecule', 'molecule_form', 'official', 'organism', 'protein_class', 'similarity', 'source', 'substructure', 'target', 'target_component',
+'target_relation', 'tissue', 'xref_source']
+
+
+
+NCBI (для бактерий):
+
+
+
+
+
+
+
