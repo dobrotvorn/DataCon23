@@ -10,14 +10,12 @@ TPSA - топологическая площадь поверхности пол
 LabuteASA - площадь поверхности молекулы, доступная для взаимодействия с молекулами растворителя.
 
 CHEMBL (для соединенй):
-Список доступных дескрипторов - ['activity', 'activity_supplementary_data_by_activity', 'assay', 'assay_class', 'atc_class', 'binding_site', 'biotherapeutic', 'cell_line',
-'chembl_id_lookup', 'compound_record', 'compound_structural_alert', 'description', 'document', 'document_similarity', 'drug', 'drug_indication', 'drug_warning', 'go_slim',
-'image', 'mechanism', 'metabolism', 'molecule', 'molecule_form', 'official', 'organism', 'protein_class', 'similarity', 'source', 'substructure', 'target', 'target_component',
-'target_relation', 'tissue', 'xref_source']
-
-
+Тут можно глянуть какие данные получиться вытащить - https://github.com/chembl/chembl_webresource_client/blob/master/demo_wrc.ipynb
+cx_most_apka - расчётная наибольшая константа кислотности
+cx_most_bpka - расчётная наибольшая константа основности
 
 NCBI (для бактерий):
+
 
 
 
