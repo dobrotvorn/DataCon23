@@ -18,6 +18,7 @@ kingdom
 subkingdom
 clade
 phylum
+Bacteria (?)
 class (?)
 order
 family
@@ -26,7 +27,7 @@ species
 gram
 min_Incub_period, h
 max_Incub_period, h
-growth_temp, C (?)
+growth_temp, C
 biosafety_level
 isolated_from
 chemID
@@ -39,6 +40,24 @@ NumRotatableBonds
 NumHAcceptors
 NumHDonors
 NumAromaticRings (?)
+
+Оставшиеся параметры:
+Bacteria (?)
+Drug_dose
+NP_concentration
+NP size_avg
+shape (?)
+ZOI_drug
+ZOI_NP
+ZOI_drug_NP
+class (?)
+avg_Incub_period, h
+drug
+smiles (?)
+MolLogP
+NumAromaticRings (?)
+TPSA
+
 
 
 
