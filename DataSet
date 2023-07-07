@@ -5,4 +5,40 @@
 Из NP_concentration убрать странные строковые данные "170/85/42.xx" и др. (Заменить на NaN)
 
 
-Убрать столбцы: 
+Убрать столбцы:
+NP_Synthesis
+Drug_class_drug_bank
+NP size_min
+NP size_max
+shape (?)
+method
+fold_increase_in_antibacterial_activity (%)
+MDR_check
+kingdom
+subkingdom
+clade
+phylum
+class (?)
+order
+family
+genus
+species
+gram
+min_Incub_period, h
+max_Incub_period, h
+growth_temp, C (?)
+biosafety_level
+isolated_from
+chemID
+prefered_name
+smiles (?)
+NumValenceElectrons
+NumHeteroatoms
+LabuteASA
+NumRotatableBonds
+NumHAcceptors
+NumHDonors
+NumAromaticRings (?)
+
+
+
