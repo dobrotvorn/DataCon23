@@ -11,6 +11,7 @@ NP_Synthesis
 Drug_class_drug_bank
 NP size_min
 NP size_max
+drug
 shape (?)
 method
 fold_increase_in_antibacterial_activity (%)
@@ -33,14 +34,13 @@ biosafety_level
 isolated_from
 chemID
 prefered_name
-smiles (?)
 NumValenceElectrons
 NumHeteroatoms
 LabuteASA
 NumRotatableBonds
 NumHAcceptors
 NumHDonors
-NumAromaticRings (?)
+NumAromaticRings
 
 Оставшиеся параметры:
 Bacteria (?)
@@ -53,10 +53,8 @@ ZOI_NP
 ZOI_drug_NP
 class (?)
 avg_Incub_period, h
-drug
-smiles (?)
+smiles
 MolLogP
-NumAromaticRings (?)
 TPSA
 
 
